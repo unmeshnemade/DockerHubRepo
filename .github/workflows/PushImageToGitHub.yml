@@ -20,5 +20,5 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: shivam0007/myspringbootapp:latest
+          tags: unmeshnemade/newrepofordocker:latest
           
